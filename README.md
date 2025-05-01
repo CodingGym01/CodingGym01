@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingGym01
 - 👀 I’m interested in Exploring new technologies, solving challenging problems, and contributing to open-source projects
-- 🌱 I’m currently learning Full-stack development and machine learning.
+- 🌱 I’m currently learning Full-stack development,machine learning and data analytics.
 - 💞️ I’m looking to collaborate on Open-source projects related to web development and machine learning.
 - 📫 How to reach me Feel free to connect with me on LinkedIn(www.linkedin.com/in/harsh-chauhan-924361239) or drop an email at harshchauhan0897@gmail.com.
 - 😄 Pronouns: ...
